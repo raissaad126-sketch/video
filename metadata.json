@@ -1,0 +1,5 @@
+{
+  "name": "VeoBatch - Bulk Video Generator",
+  "description": "A high-performance bulk text-to-video generation tool using Google's Veo 3.1 model at 1080p resolution. Queue multiple prompts and let the AI generate cinematic videos in the background.",
+  "requestFramePermissions": []
+}
